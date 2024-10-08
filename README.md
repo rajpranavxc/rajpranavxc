@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aman Verma</h1>
+<h1 align="center">Hi 👋, I'm Pranav Raj</h1>
 <h3 align="center">A passionate Tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -7,16 +7,16 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, AI, Problem solving.**
+- 💬 Ask me about **Competitive Programming, Data Structures & Algorithms, Problem solving.**
 
-- 📫 How to reach me **aamanvermalmp@gmail.com**
+- 📫 How to reach me **rajpranavxc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amaniitp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaniitp" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amaniitp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amaniitp" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/idkyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="idkyk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amaniitp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amaniitp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajpranavxc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajpranavxc" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/thunder_x_god" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajpranavxc" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ThunderXGod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="idkyk" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ThunderXGod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajpranavxc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
