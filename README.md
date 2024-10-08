@@ -5,11 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpranavxc&label=Profile%20views&color=0e75b6&style=flat" alt="rajpranavxc" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development**.
+- 💬 Ask me about **Competitive Programming, Data Structures & Algorithms, and Problem Solving**.
 
-- 💬 Ask me about **Competitive Programming, Data Structures & Algorithms, Problem solving.**
+- 🚀 Recent Projects: AI Article Summarizer Website using **React, Tailwind CSS, and JavaScript**.
 
-- 📫 How to reach me **rajpranavxc@gmail.com**
+- 📫 How to reach me: **rajpranavxc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
