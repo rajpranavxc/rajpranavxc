@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpranavxc&label=Profile%20views&color=0e75b6&style=flat" alt="rajpranavxc" /> </p>
 
-- 🌱 I’m currently learning **Web Development**.
+- 🌱 I’m currently learning **Java** for **Backend Development**.
+  
 - 💬 Ask me about **Competitive Programming, Data Structures & Algorithms, and Problem Solving**.
 
 - 🚀 Recent Projects: AI Article Summarizer Website using **React, Tailwind CSS, and JavaScript**.
