@@ -29,7 +29,7 @@
   <a href="https://leetcode.com/ThunderXGod/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajpranavxc" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/rajpranavxc/profile" target="blank">
+  <a href="[https://auth.geeksforgeeks.org/user/rajpranavxc/profile](https://www.geeksforgeeks.org/user/thunder_x_god/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajpranavxc" height="30" width="40" />
   </a>
 </p>
