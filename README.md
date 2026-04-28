@@ -11,8 +11,6 @@
 
 - 🚀 Recent Projects: AI Article Summarizer Website using **Rapid API, React, Tailwind CSS, and JavaScript**.
 
-- 🌐 Check out my **Portfolio Website**: [Portfolio](https://rajpranav.vercel.app/)
-
 - 📫 How to reach me: **rajpranavxc@gmail.com**
 
 <h3 align="left">Find me on:</h3>
